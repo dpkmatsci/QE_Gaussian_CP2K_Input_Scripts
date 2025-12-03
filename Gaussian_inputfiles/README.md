@@ -50,7 +50,7 @@ pf5scn demonstrates the change of potential energy during pseudorotation in PF5.
 
 PES scanning is very useful in locating transition states or achieving a geometry quite close to the transition
 state. First, select one or two possible reaction coordinates. Perform the PES scanning along these and identify
-the geometries lying close to the peak. Along with energy,  check the RMS gradient curve. The transition states
+the geometries lying close to the peak. Along with energy, check the RMS gradient curve. The transition states
 have almost zero RMS energy gradient norm. 
 ```
 
