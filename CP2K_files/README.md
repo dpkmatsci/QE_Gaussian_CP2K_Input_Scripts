@@ -2,7 +2,7 @@
 
 
 
-The input scripts for cell relaxation, slab relaxation and ab-initio molecular dynamics (AIMD) in the open source package CP2K have been provided in the above folders.
+The input scripts for cell relaxation, slab relaxation, and ab initio molecular dynamics (AIMD) in the open-source package CP2K are provided in the above folders.
 Useful links for CP2K: [https://www.cp2k.org/], [https://manual.cp2k.org/trunk/], [https://www.cp2k.org/exercises]
 
 Input and output files are in *.inp and *.out format.
